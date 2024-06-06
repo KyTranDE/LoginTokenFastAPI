@@ -1,3 +1,10 @@
 fastapi
 regex
 python-jose
+redis
+mysql-connector-python
+tabulate
+pandas
+numpy
+python-dotenv
+psycopg2
